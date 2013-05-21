@@ -1,0 +1,15 @@
+{
+  "name": "bookuser",
+  "version": "0.0.1",
+  "description": "Simple User Auth for Book",
+  "main": "bookuser.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rintiantta/bookuser.git"
+  },
+  "author": "rintiantta",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "086789aec2323d55e5166655e39a8d048967e6ee"
+}
